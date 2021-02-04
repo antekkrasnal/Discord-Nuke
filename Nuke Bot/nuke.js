@@ -43,6 +43,6 @@ if(msg.content.toLowerCase().startsWith("bb35n!" + "help")){
 }
 });
 
-nuke.login("Replace Here With Your bot Token"); # Replace your Token
+nuke.login("S5RxWI-cu2I9Ezg08WSCwyMp2yQtKi7D"); # Replace your Token
 
 #ElecTwix
